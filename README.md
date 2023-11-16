@@ -5,15 +5,15 @@ ________________________________________
 
 ## Folgende Schritte kannst Du umsetzen, um eine einfache Datenvisualisierung umzusetzen.
 
-**_01. Entwicklungsumgebung: VS Code Studio_**
+**_01. Entwicklungsumgebung nutzen: VS Code Studio_**
 
-**_02. Python als Extension installiert_**
+**_02. Python als Extension installieren_**
 
-**_02. Ordner im Editor: Übungen_**
+**_02. Ordner im Editor erstellen: Übungen_**
 
-**_03. Python Datei im Ordner "deineApp.py"_**
+**_03. Python Datei im Ordner erstellen: "deineApp.py"_**
 
-**_04. Codezeile_**
+**_04. Codezeile eingeben_**
 
 ```
 import streamlit as st
@@ -39,7 +39,7 @@ Terminal erscheint der folgende Output:
   command:
 ``
 
-**_06. Code im Terminal_**
+**_06. Code im Terminal eingeben_**
 
 `streamlit run deineApp.py`
 
