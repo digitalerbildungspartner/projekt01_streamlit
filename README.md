@@ -9,11 +9,11 @@ ________________________________________
 
 **_02. Python als Extension installieren_**
 
-**_02. Ordner im Editor erstellen: "Übungen"_**
+**_03. Ordner im Editor erstellen: "Übungen"_**
 
-**_03. Python Datei im Ordner erstellen: "deineApp.py"_**
+**_04. Python Datei im Ordner erstellen: "deineApp.py"_**
 
-**_04. Codezeile eingeben_**
+**_05. Codezeile eingeben_**
 
 ```
 import streamlit as st
