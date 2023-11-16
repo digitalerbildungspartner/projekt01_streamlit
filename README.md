@@ -50,5 +50,5 @@ Terminal erscheint der folgende Output:
 **10. Daten werden repräsentiert**
 __________________________________________________
 ## Mein Ergebnis:
+![Screenshot 2023-11-16 115550](https://github.com/digitalerbildungspartner/projekt01_streamlit/assets/146565610/5fdb24e6-607e-4dbe-9d29-5985b6247177)
 
-![Image](https://github.com/users/digitalerbildungspartner/projects/2/assets/146565610/f4f26fb7-0efe-4217-aaed-baad8cfddd99)
