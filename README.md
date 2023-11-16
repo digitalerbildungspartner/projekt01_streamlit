@@ -31,7 +31,7 @@ if csv_file is not None:
 
 ```
 
-_**05. Run clicken**_
+_**06. Run clicken**_
 
 ``
 Terminal erscheint der folgende Output:
@@ -39,13 +39,13 @@ Terminal erscheint der folgende Output:
   command:
 ``
 
-**_06. Code im Terminal eingeben_**
+**_07. Code im Terminal eingeben_**
 
 `streamlit run deineApp.py`
 
-**_07. Browserfenster öffnet sich_**
+**_08. Browserfenster öffnet sich_**
 
-**_08. Datei hochladen_**
+**_09. Datei hochladen_**
 
 z. B.  https://www.kaggle.com/datasets/thedevastator/national-universities-rankings-explore-quality-t
 
