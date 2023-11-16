@@ -52,3 +52,8 @@ __________________________________________________
 ## Mein Ergebnis:
 ![Screenshot 2023-11-16 115550](https://github.com/digitalerbildungspartner/projekt01_streamlit/assets/146565610/5fdb24e6-607e-4dbe-9d29-5985b6247177)
 
+___________________________________________________
+
+Weitere Infos und Demos findetst du unter:
+
+https://streamlit.io/
