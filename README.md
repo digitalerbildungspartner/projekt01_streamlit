@@ -9,7 +9,7 @@ ________________________________________
 
 **_02. Python als Extension installieren_**
 
-**_02. Ordner im Editor erstellen: Übungen_**
+**_02. Ordner im Editor erstellen: "Übungen"_**
 
 **_03. Python Datei im Ordner erstellen: "deineApp.py"_**
 
